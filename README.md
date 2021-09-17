@@ -8,7 +8,7 @@
 - 🌱 I have developed a Dash Plotly application for data analysis, mostly by reading
 - 🌱 help documents. And working on a student information database for my girlfriend's music school.
 - 💞️ I can collaborate on Python based projects but my collaborators should keep in
-- 💞️ mind that I my coding experience is limited yet my analytical thinking skills are
+- 💞️ mind that my coding experience is limited yet my analytical thinking skills are
 - 💞️ pretty good if not top notch.
 
 - 📫 How to reach me: urkmez.bahadir@dogostore.com
