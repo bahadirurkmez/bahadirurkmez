@@ -10,8 +10,7 @@
 - 💞️ I can collaborate on Python based projects but my collaborators should keep in
 - 💞️ mind that my coding experience is limited yet my analytical thinking skills are
 - 💞️ pretty good if not top notch.
-
-- 📫 How to reach me: urkmez.bahadir@dogostore.com
+- 📫 How to reach me: urkmez.bahadir@gmail.com
 <!---
 bahadirurkmez/bahadirurkmez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
